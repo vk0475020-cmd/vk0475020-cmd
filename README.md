@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=VINAY+KUSHWAH;AI+%26+DATA+SCIENCE+ENGINEER;JAVA+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST;BUILDING+THE+FUTURE+WITH+AI" />
+# ⚡ VINAY KUSHWAH ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+DATA+SCIENCE+ENGINEER;JAVA+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST;OPEN+SOURCE+LEARNER;BUILDING+AI-POWERED+APPLICATIONS" />
 
 <br>
 
@@ -10,12 +12,14 @@
 
 ---
 
-# ⚡ About Me
+# 🚀 About Me
 
 ```yaml
 Name: Vinay Kushwah
+
 Role: AI & Data Science Undergraduate
-University: GLA University, Mathura
+
+Location: India
 
 Languages:
   - Java
@@ -63,7 +67,7 @@ Exploring:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -99,20 +103,20 @@ Exploring:
 
 ## Deepfake & Misinformation Detection Intelligence System (DDIS)
 
-An AI-inspired web application designed to identify misinformation patterns and provide intelligent content analysis through interactive visualizations.
+An AI-powered web platform designed to detect misinformation patterns and provide intelligent content analysis through interactive visualizations.
 
 ### ✨ Features
 
-* AI-based misinformation analysis
+* AI-inspired misinformation analysis
 * NLP heuristic scoring
+* Interactive confidence scoring
 * Deepfake detection concepts
-* Responsive user interface
-* Interactive dashboards
+* Responsive single-page application
 * HTML5 Canvas animations
+* Modern cyberpunk UI
+* Glassmorphism design
 * Drag-and-drop uploads
 * Report generation simulation
-* Modern Cyberpunk UI
-* Glassmorphism Design
 
 ### 🧰 Tech Stack
 
@@ -151,7 +155,7 @@ Vercel
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 Goals
 
 * Master Data Structures & Algorithms
 * Build Production-Ready AI Applications
@@ -174,12 +178,22 @@ Vercel
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/vk0475020-cmd/vk0475020-cmd/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 ## ⚡ AI • DATA SCIENCE • SOFTWARE ENGINEERING ⚡
 
 Building intelligent systems, solving real-world problems with code, and continuously learning every day.
 
-⭐ Star repositories that you find useful and follow my journey as I grow as an engineer.
+⭐ If you find my projects useful, consider starring them and following my journey.
 
 </div>
